@@ -1,0 +1,7 @@
+
+/venv/
+
+
+/elasticserach/venv/
+
+*.gguf
